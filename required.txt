@@ -1,0 +1,31 @@
+1. Home Page
+	a) video
+	b) Gallery (full images)
+	c) Players review
+	d) games news
+2. Pages=> About Us	
+	a) Title image and content
+	b) Our experts : content, images and profile if required
+3. Pages=> Our Team
+	a) 	our team: profiles.
+4. Pages=> FAQ
+	Three sub sections are there
+	Give question answers section wise.
+5. Games=> All Games	
+	a) Title image and content
+6. Games=> Games details
+	a) Title image and content
+	b) Games operating System
+	c) Games controller system
+7. Gallery=> two sub-sections
+	a) Two sub-sections with different images.
+8. Contact Us page
+	a) Office address
+	b) If want feedback then database needed(name,email,subject and message)
+	
+Information section for every page
+	a) Telephone, Email, Location
+	b) Link for facebook,twitter,google,pininterest,insta 
+	c) Copyright: required or not.
+		
+	
